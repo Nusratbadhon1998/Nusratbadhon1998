@@ -1,8 +1,21 @@
 <h1 align="center">Hi 👋, I'm Nusrat Jahan Badhon</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nusratbadhon" alt="nusratbadhon" /></a> </p>
 <img align="right" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="Girl in a jacket" width="400" height="400">
+I'm a recent Computer Science and Engineering graduate from Dhaka, Bangladesh. My passion lies in learning new technologies and coding, with a strong ambition to master various fields in tech. I strive to become the best version of myself, aiming for independence, happiness, and professional excellence.
+
+## ⚡ My Goals
+
+* Aspiring to be a top-notch web developer, mastering both front-end and back-end technologies.
+* Keen to delve deep into data science and machine learning, making sense of data and building intelligent systems.
+* Focused on continuous learning and self-improvement, working towards becoming self-sufficient and achieving a secure job.
+ 
+## ⚡ Technologies
+- Programming Languages: **Python, JavaScript, HTML, CSS**
+- Frameworks and Libraries: **React, Node.js, Express.js,Pandas**
+- Database Management: **MySQL, MongoDB**
+- Tools and Platforms: **Git, GitHub, VS Code**
+
 
 - 🌱 I’m currently learning **Next Js, Machine Learning**
 
@@ -22,4 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nusratbadhon&" alt="nusratbadhon" /></p>
 
-![NusratBadhon1998's Stats] (https://github-readme-stats.vercel.app/api?username=NusratBadhon1998&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+![NusratBadhon1998's Stats](https://github-readme-stats.vercel.app/api?username=NusratBadhon1998&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
