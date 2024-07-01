@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nusratbadhon" alt="nusratbadhon" /></a> </p>
-<img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="Girl in a jacket" width="500" height="600">
+<img align="right" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="Girl in a jacket" width="400" height="400">
 
 - 🌱 I’m currently learning **Next Js, Machine Learning**
 
